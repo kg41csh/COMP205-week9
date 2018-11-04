@@ -1,0 +1,35 @@
+
+#div1, #div2, #div3 {
+    font-size: 20px;
+    color: red;
+}
+
+#div1 {
+    height:300px; 
+    background-color:rgb(143, 143, 224);
+}
+
+#div2 {
+    height:200px; 
+    background-color:rgb(114, 192, 192);
+}
+
+#div3 {
+    height:230px; 
+    background-color:rgb(199, 129, 129);
+}
+
+h1 {
+    font-size: 50px;
+    color: green;
+    text-align: center;
+} 
+
+p {
+    color: blue;
+}
+
+p.large-text {
+    font-size: 40px;
+}
+
