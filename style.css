@@ -19,16 +19,20 @@
     background-color:rgb(199, 129, 129);
 }
 
+/* using nested styling */
 h1 {
     font-size: 50px;
     color: green;
     text-align: center;
 } 
 
+/* style all paragraphs with a blue color */
 p {
     color: blue;
 }
 
+/*style only the paragraphs with the “large-text” class with a larger font. 
+  Hint: This will require chaining.*/
 p.large-text {
     font-size: 40px;
 }
