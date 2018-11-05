@@ -20,7 +20,7 @@
 }
 
 /* using nested styling */
-h1 {
+#div1 h1 {
     font-size: 50px;
     color: green;
     text-align: center;
